@@ -1,0 +1,58 @@
+{
+  "productList": [
+    {
+      "productName": "Kashmiri Apples",
+      "category": "Fruits",
+      "date": "2025-03-19T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 900,
+      "comment": "Exclusive apples from kashmir.",
+      "id": "eb28"
+    },
+    {
+      "productName": "Custard apple",
+      "category": "Fruits",
+      "date": "2025-04-17T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 69,
+      "comment": "Garmi ka dushman, Sardi ka dost !!!",
+      "id": "9e35"
+    },
+    {
+      "id": "119c",
+      "productName": "Pineapple ",
+      "category": "Fruits",
+      "date": "2025-04-06T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 600,
+      "comment": "Sweet, Soury Pineapples ever"
+    },
+    {
+      "id": "82a3",
+      "productName": "Banana",
+      "category": "Fruits",
+      "date": "2025-04-12T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20,
+      "comment": "Jalgaon Famous bananas"
+    },
+    {
+      "id": "f0c1",
+      "productName": "Grapes",
+      "category": "Fruits",
+      "date": "2025-04-07T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 555,
+      "comment": "something nagpur famous grapes"
+    },
+    {
+      "id": "9f78",
+      "productName": "Tomatoes",
+      "category": "Vegetables",
+      "date": "2025-04-27T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 89,
+      "comment": "fresh tomatoes "
+    }
+  ]
+}
